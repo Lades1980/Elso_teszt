@@ -4,5 +4,8 @@ piros
 kék
 zöld
 
+lila
+sárga
+
 
 színek
