@@ -6,6 +6,8 @@ zöld
 
 lila
 sárga
+barna
+pink
 
 
 színek
