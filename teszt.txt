@@ -8,7 +8,7 @@ színek:
 piros
 kék
 zöld
-
+citromsárga
 lila
 sárga
 barna
