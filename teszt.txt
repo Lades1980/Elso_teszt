@@ -1,5 +1,9 @@
 Az első teszt
 
+állatok:
+kutya
+tyúk
+
 anyagok:
 fa
 vas
